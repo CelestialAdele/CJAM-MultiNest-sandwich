@@ -14,7 +14,7 @@ from scipy.integrate import trapz
 from scipy.interpolate import interp1d
 import pandas as pd
 
-#see how long this shit takes----------------------------------------------
+#see how long this takes----------------------------------------------
 
 import atexit
 from time import time, strftime, localtime
