@@ -1,0 +1,18 @@
+# Test MGE model for CJAM code
+# Laura L Watkins [lauralwatkins@gmail.com] - MPIA, 2013/05/25
+# -----------------------------------------------------------------------------
+#   bytes    format   units        label    explanation
+# -----------------------------------------------------------------------------
+#    1- 2    i2       ---          num      gaussian number
+#    7-16    f10.5    Lsun/pc^2    I0       central surface brightness
+#   21-30    f10.5    arcsec       sigma    dispersion along major axis
+#   35-41    f7.5     ---          q'       projected flattening
+# -----------------------------------------------------------------------------
+ 1    1300.0      28.0    1.000
+ 2    4700.0     115.0    0.999
+ 3    2500.0     150.0    0.779
+ 4     800.0     210.0    0.724
+ 5    1000.0     330.0    0.855
+ 6     200.0     540.0    0.939
+ 7      40.0     840.0    0.955
+ 8      10.0    1260.0    1.000
