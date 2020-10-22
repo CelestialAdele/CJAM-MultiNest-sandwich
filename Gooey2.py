@@ -3,7 +3,7 @@
 """
 Created on Sun August 30th 20:26:06 2020
 
-@author: Tristan Armstrong, Addy Evans
+@author: addy
 """
 
 # any of these scripts with the suffix 2 are the first implementation of adding the black hole and dark matter options to GUI and cjam calculations 
